@@ -1,0 +1,2 @@
+servidor/index-linux filter=lfs diff=lfs merge=lfs -text
+servidor/index-macos filter=lfs diff=lfs merge=lfs -text
